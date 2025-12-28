@@ -28,8 +28,6 @@
 * Front manda um pedido para criar usuário
 * Back responde com os dados criados
 
-👉 Em resumo:
-
 > “REST define como o sistema conversa com o mundo externo.”
 
 ---
@@ -50,8 +48,6 @@
   * atributos viram colunas
   * relacionamentos funcionam
 * Permite trabalhar com banco usando **objetos**, não SQL direto o tempo todo
-
-👉 Frase boa pra entrevista:
 
 > “JPA define como o Java se comunica com o banco de dados.”
 
