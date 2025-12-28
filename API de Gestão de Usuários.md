@@ -1,11 +1,3 @@
-Perfeito 👍
-Vou explicar **em tópicos**, linguagem clara, **pensando no projeto de usuários**, exatamente do jeito que você explicaria numa entrevista.
-Sem enrolação, sem detalhe desnecessário.
-
-Vou começar **na ordem lógica do projeto**, não na ordem “teórica”.
-
----
-
 ## 🔹 Spring Boot (base de tudo)
 
 Você já entendeu bem, mas só pra fechar o raciocínio:
@@ -141,25 +133,19 @@ No projeto real, funciona assim:
 
 ---
 
-## 🔹 Resumo rápido (tipo cola de entrevista)
+## 🔹 Resumo rápido
 
 * **REST:** comunicação com o front
+* 
 * **JPA:** define regras de persistência
+* 
 * **Hibernate:** executa persistência
+* 
 * **Flyway:** controla mudanças no banco
+* 
 * **Spring Boot:** junta tudo e sobe a aplicação
 
 ---
 
-## 🧠 Frase final pra guardar
+## No projeto, o Spring Boot facilita a configuração, o REST expõe a API, o JPA define o mapeamento com o banco, o Hibernate executa a persistência e o Flyway controla a evolução da estrutura do banco.
 
-Se te pedirem pra explicar tudo junto:
-
-> “No projeto, o Spring Boot facilita a configuração, o REST expõe a API, o JPA define o mapeamento com o banco, o Hibernate executa a persistência e o Flyway controla a evolução da estrutura do banco.”
-
-Se quiser, no próximo passo posso:
-
-* simular **essa explicação como pergunta de entrevista**
-* ou montar um **mapa mental em 30 segundos**
-
-Você agora tem **discurso técnico claro**, sem complicar.
