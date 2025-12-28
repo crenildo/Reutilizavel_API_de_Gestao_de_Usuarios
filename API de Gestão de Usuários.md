@@ -1,7 +1,5 @@
 ## 🔹 Spring Boot (base de tudo)
 
-Você já entendeu bem, mas só pra fechar o raciocínio:
-
 * **O que é:** framework que facilita criar aplicações Java
 * **No projeto:**
 
